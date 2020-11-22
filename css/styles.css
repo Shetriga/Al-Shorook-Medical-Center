@@ -1,0 +1,132 @@
+/* Navbar Section */
+#header-navbar {
+  /* margin-bottom: 5%; */
+}
+
+.nav-link {
+  white-space: nowrap;
+}
+
+.navbar {
+  padding: 1% 0;
+}
+
+.navbar-item-link {
+  margin: 0 3%;
+}
+
+.top-navbar {
+  padding-left: 2%;
+  padding-right: 8%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+/* IMAGE SECTION */
+#header-image {
+  background-color: #eeeeee;
+  background: rgb(2, 0, 36);
+  /* margin-bottom: 100px; */
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(238, 238, 238, 1) 0%, rgba(227, 228, 232, 1) 100%);
+}
+
+.download-button {
+  margin-top: 30px;
+}
+
+.col-image {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.doctor-image {
+  width: 100%;
+  position: relative;
+  padding: 0 0;
+  /*transform: rotateY(180deg);*/
+}
+
+.col-image-text {
+  color: #5B9ED9;
+  margin-top: 150px;
+  /* position: relative; */
+  /* bottom: 150px; */
+  /* left: 5%; */
+  text-align: center;
+  width: 600px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+.image-section-text {
+  margin-bottom: 0;
+}
+
+.col-md-12 .image.section-text {
+  bottom: 0;
+}
+
+/* ADVICE SECTION */
+#advice {
+  background-color: #fff;
+}
+
+.advice-image {
+  height: 250px;
+  margin-top: 100px;
+}
+
+.col-advice {
+  text-align: center;
+  padding: 0 7%;
+}
+
+.advice-title {
+  margin-top: 10px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+.advice-text {
+  color: #5c5a5a;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* LOGIN SECTION */
+.container-login {
+  text-align: center;
+  padding: 0 30%;
+  /* margin-top: 5%; */
+}
+
+.remember-me {
+  padding-top: 15px;
+}
+
+.login-body {
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(238, 238, 238, 1) 0%, rgba(227, 228, 232, 1) 100%);
+}
+
+/* FOOTER SECTION */
+#footer {
+  text-align: center;
+  background: #eaeaec;
+  padding: 30px 0;
+}
+
+.footer-h1 {
+  margin-bottom: 0;
+}
+
+.font-awesome {
+  margin: 0 1%;
+}
+
+.font-awesome:hover {
+  cursor: pointer;
+}
